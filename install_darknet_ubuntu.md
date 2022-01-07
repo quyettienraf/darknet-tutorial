@@ -27,3 +27,4 @@ which nvcc
 sudo apt-get update -y
 sudo apt-get install -y libopencv-dev
 ```
+run ```bash make ``` in darnet directory
