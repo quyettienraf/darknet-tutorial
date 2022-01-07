@@ -16,9 +16,14 @@ nvcc --version
 ```
 if you install cuDNN
 ```bash
-
+sudo apt install nvidia-cuda-toolkit
 ```
 Check where your cuda installation is
 ```bash
 which nvcc
+```
+## 4. Install libopencv-dev
+```bash
+sudo apt-get update -y
+sudo apt-get install -y libopencv-dev
 ```
